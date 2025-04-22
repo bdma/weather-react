@@ -6,9 +6,18 @@ A modern weather forecast application built with React, featuring real-time weat
 
 ## Screenshots 项目截图
 
-> **Note**: Screenshots will be added soon. The application features a modern interface with weather cards, temperature charts, and dynamic weather themes.
-> 
-> **注意**：截图即将添加。应用程序具有现代界面，包含天气卡片、温度图表和动态天气主题。
+### 主界面 Main Interface
+![主界面](screenshots/main.png)
+*展示天气卡片和温度图表的现代界面 Modern interface showing weather cards and temperature chart*
+
+
+### 加载动画 Loading Animation
+![加载动画](screenshots/loading.png)
+*骨架屏加载动画效果 Skeleton loading animation*
+
+### 响应式设计 Responsive Design
+![响应式设计](screenshots/responsive.png)
+*在不同设备上的显示效果 Display on different devices*
 
 ## Features 功能特点
 
@@ -22,6 +31,10 @@ A modern weather forecast application built with React, featuring real-time weat
 - Weather-based themes 基于天气的主题样式
 
 ## Tech Stack 技术栈
+
+### Environment 环境要求
+- Node.js v20.17.0
+- npm (Node Package Manager)
 
 ### Frontend 前端
 - React (基于 Create React App)
