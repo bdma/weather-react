@@ -22,8 +22,7 @@ A modern weather forecast application built with React, featuring real-time weat
 ## Features 功能特点
 
 - Real-time weather data display 实时天气数据显示
-- 5-day weather forecast 五天天气预报
-- Temperature line chart 温度折线图
+- 8-day weather forecast 8天天气预报
 - City search functionality 城市搜索功能
 - Quick access to major cities 主要城市快速访问
 - Responsive design 响应式设计
